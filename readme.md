@@ -48,4 +48,4 @@ Contributions to the project are welcome. If you encounter any issues, have sugg
 
 ## LICENSE
 
-This project is licensed under the MIT License, see (https://vscode.dev/github/Lovelace98/LinkedIn_Job_Application_Automation_Bot/blob/master/MIT%20-%20License.txt) for more information. 
+This project is licensed under the MIT License, see MIT-License.txt for more information. 
